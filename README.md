@@ -6,3 +6,5 @@ Repository used for code completed during FSRI research on the dynamics of exopl
 N-Body Simulator
 
 Planetary Orbit Plotting
+
+Exoplanet lightcurve and orbit analysis
