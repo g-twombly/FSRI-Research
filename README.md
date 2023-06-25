@@ -8,3 +8,6 @@ N-Body Simulator
 Planetary Orbit Plotting
 
 Exoplanet lightcurve and orbit analysis
+
+## Visuals:
+You may view some visuals in the final presentation pdf in this repository.
